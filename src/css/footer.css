@@ -1,0 +1,30 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+ul,li{
+	list-style: none;
+	float: left;
+}
+a{
+	text-decoration: none;
+}
+html,body{
+	font-family: "微软雅黑";
+	font-size: 12px;
+}
+.footer{
+	margin: 0 auto;
+	border-top:1px solid #e5e5e5;
+	background: #fafafa;
+}
+.footer_table{
+	margin: 0 auto;	
+	padding: 20px 70px 33px 25px;
+	border-bottom: 1px solid #e5e5e5;
+}
+.footer_p{
+	margin-left:647px;
+	padding-bottom: 15px;
+}
